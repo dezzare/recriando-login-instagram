@@ -1,6 +1,6 @@
 # Recriando a tela de login do Instagram
 
-Projeto proposto no bootcamp da Spread Fullstack Developer na dio.me, desenvolvido do 0.
+Projeto desenvolvido do 0, somente imagens retiradas do site oficial.
 
 
 ![](demo.png)
